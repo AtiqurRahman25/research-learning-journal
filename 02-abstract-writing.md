@@ -6,4 +6,8 @@
 2. It will decide whether the reader should download the full length of the article or not. Eventually it helps the reader decide whether the article should cite or not.<br>
 3. Abstract plays vital role for the SEO and Indexing.<br>
 4. Every journal has their individual format of writing and word limit(e.g., Springer, Nature, etc), be sure about it before submission.
-
+5. Types of Abstract 
+  -> Descriptive Abstract
+  -> Informative Abstract
+  -> Structured Abstract
+6. 

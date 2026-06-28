@@ -11,4 +11,4 @@
   -> Informative Abstract
   -> Structured Abstract
 6. First 2-3 sentences should summarize topic of research and specific questions.<br>
-7. 
+7. States key findings and results with crucial numerical data.<br>

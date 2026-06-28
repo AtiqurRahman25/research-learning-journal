@@ -12,3 +12,4 @@
   -> Structured Abstract
 6. First 2-3 sentences should summarize topic of research and specific questions.<br>
 7. States key findings and results with crucial numerical data.<br>
+<a href="[https://www.w3schools.com/](https://onlinelibrary.wiley.com/doi/epdf/10.1002/bies.200900023)">Further Reading</a
